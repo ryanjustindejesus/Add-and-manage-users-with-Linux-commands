@@ -51,7 +51,7 @@ A couple of months later, this employee's role at the organization has changed, 
 <h2>Task 4: Description </h2>
 A year later, researcher9, decided to leave the company. In this task, I removed them from the system.
  <br/> <br/> 
-(1) First, I used the command "sudo userdel researcher9" to delete researcher9 from the system. <br/>
+(1) First, I used the command "sudo userdel researcher9" to delete researcher9 from the system. <br/> <br/>
 (2) Finally, I used the command "sudo groupdel researcher9" to delete the researcher9 group that is no longer required. 
 <br/> <br/>  <p align="center">
 <img src="https://imgur.com/gfIl23P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
