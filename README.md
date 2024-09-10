@@ -2,8 +2,8 @@
 
 
 
-<h2>In this lab, I learned how to add users and manage user access in a system. These skills can be used when working with authentication technology.</h2>
-
+<h2>Description</h2>
+In this lab, I learned how to add users and manage user access in a system. These skills can be used when working with authentication technology
 <br />
 
 
