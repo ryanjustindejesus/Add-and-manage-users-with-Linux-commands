@@ -24,7 +24,7 @@ In this lab, I learned how to add users and manage user access in a system. Thes
 A new employee has joined the Research department. In this task, I added them to the system. The username assigned to them is researcher9.
  <br/> <br />
 (1) First, I used the command "sudo useradd researcher9" to add a user called researcher9 to the system. <br/> <br/>
-(2) Then, I used the command "sudo usermod -g research_team researcher9" to add the new user, researcher9, to the research_team group. <br/> <br/>
+(2) Next, I used the command "sudo usermod -g research_team researcher9" to add the new user, researcher9, to the research_team group. <br/> <br/>
 (3) Finally, I used the command "id researcher9" to confirm that researcher9 has been added to the system. 
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/H0MKixi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
